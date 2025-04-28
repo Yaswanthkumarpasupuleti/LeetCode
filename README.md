@@ -27,6 +27,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -63,6 +64,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0141-linked-list-cycle) |
