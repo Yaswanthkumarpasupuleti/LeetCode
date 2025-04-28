@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Hash Table
 |  |
 | ------- |
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
 ## String
 |  |
 | ------- |
@@ -33,6 +35,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Math
 |  |
 | ------- |
@@ -43,6 +46,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
 ## Linked List
 |  |
 | ------- |
@@ -51,4 +55,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0021-merge-two-sorted-lists) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
