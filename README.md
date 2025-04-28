@@ -36,11 +36,13 @@
 | [0005-longest-palindromic-substring](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0070-climbing-stairs) |
 ## Math
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
