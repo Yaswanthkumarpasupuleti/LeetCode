@@ -1,31 +1,12 @@
-from typing import List
+
 class Solution:
     def specialGrid(self, n: int) -> List[List[int]]:
-        def build(level):
-            if level == 0:
-                return [[0]]  # Base case: 1x1 grid
-
-            # Recursively get the smaller grid of size 2^(level-1)
-            small = build(level - 1)
-            size = len(small)  # Size of the small grid
-            k = size * size     # Number of elements in one quadrant
-            new_size = size * 2  # New grid is double in size
-
-            # Create an empty grid of new_size
-            grid = [[0 for _ in range(new_size)] for _ in range(new_size)]
-
-            for i in range(size):
-                for j in range(size):
-                    val = small[i][j]
-                    # Fill top-left (add 3*k)
-                    grid[i][j] = val + 3 * k
-                    # Fill top-right (add 0*k)
-                    grid[i][j + size] = val + 0 * k
-                    # Fill bottom-left (add 2*k)
-                    grid[i + size][j] = val + 2 * k
-                    # Fill bottom-right (add 1*k)
-                    grid[i + size][j + size] = val + 1 * k
-
-            return grid
-
-        return build(n)
+        def f(k):
+            if k == 0:
+                return [[0]]
+            g = f(k - 1)
+            m, s = len(g), len(g) ** 2 
+            top = [[v + 3 * s for v in g[i]] + g[i] for i in range(m)]
+            bot = [[v + 2 * s for v in g[i]] + [v + s for v in g[i]] for i in range(m)]
+            return top + bot
+        return f(n)
