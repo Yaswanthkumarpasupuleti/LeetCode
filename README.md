@@ -82,6 +82,7 @@
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [1013-fibonacci-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1013-fibonacci-number) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+| [3859-maximum-product-of-two-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Stack
 |  |
 | ------- |
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
+## Sorting
+|  |
+| ------- |
+| [3859-maximum-product-of-two-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->
