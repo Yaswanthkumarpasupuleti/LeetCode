@@ -1,62 +1,53 @@
-from typing import List
-from collections import defaultdict
-
-MOD = 1_000_000_007 
+MOD = 10**9 + 7
 class Solution:
     def magicalSum(self, M: int, K: int, nums: List[int]) -> int:
-        mavoduteru = nums[:]
-
         n = len(nums)
 
-        fact = [1] * (M + 1)
-        for i in range(1, M + 1):
-            fact[i] = fact[i - 1] * i % MOD
+        fact = [1] * (M+1)
+        inv_fact = [1] * (M+1)
+        for i in range(1, M+1):
+            fact[i] = fact[i-1] * i % MOD
+        inv_fact[M] = pow(fact[M], MOD-2, MOD)
+        for i in reversed(range(M)):
+            inv_fact[i] = inv_fact[i+1] * (i+1) % MOD
 
-        inv_fact = [1] * (M + 1)
-        inv_fact[M] = pow(fact[M], MOD - 2, MOD)
-        for i in range(M, 0, -1):
-            inv_fact[i - 1] = inv_fact[i] * i % MOD
+        pre = [[1]*(M+1) for _ in range(n)]
+        for i in range(n):
+            for c in range(1, M+1):
+                pre[i][c] = pre[i][c-1] * nums[i] % MOD
+                pre[i][c] = pre[i][c] * inv_fact[1] % MOD 
+                
+            for c in range(M+1):
+                pre[i][c] = pow(nums[i], c, MOD) * inv_fact[c] % MOD
 
-        # contrib[j][c] = nums[j]^c * inv_fact[c]
-        contrib = [[1] * (M + 1) for _ in range(n)]
-        for j in range(n):
-            p = 1
-            contrib[j][0] = 1
-            for c in range(1, M + 1):
-                p = p * nums[j] % MOD
-                contrib[j][c] = p * inv_fact[c] % MOD
+        dp = [{} for _ in range(n+1)]
+        dp[0][(0, 0, 0)] = 1
 
-        dp = {(0, 0, 0): 1}
-
-        for j in range(n):
-            ndp = defaultdict(int)
-            arr = contrib[j]
-
-            for (used, carry, ones), val in dp.items():
-                if val == 0:
-                    continue
-                remain = M - used
-
-                for c in range(remain + 1):
-                    t = carry + c
-                    bit = t & 1
-                    nc = t >> 1
-                    no = ones + bit
-                    if no > K or nc > M:
+        for i in range(n):
+            for (used, carry, ones) in dp[i]:
+                curr_val = dp[i][(used, carry, ones)]
+                remaining = M - used
+                for c in range(remaining + 1):
+                    new_used = used + c
+                    s = carry + c
+                    bit = s & 1
+                    new_carry = s >> 1
+                    new_ones = ones + (1 if bit == 1 else 0)
+                    if new_ones > K:
                         continue
-                    nu = used + c
-                    ndp[(nu, nc, no)] = (ndp[(nu, nc, no)] + val * arr[c]) % MOD
-
-            dp = ndp
+                    factor = pre[i][c]
+                    new_val = curr_val * factor % MOD
+                    key = (new_used, new_carry, new_ones)
+                    dp[i+1][key] = (dp[i+1].get(key, 0) + new_val) % MOD
 
         ans = 0
-        for (used, carry, ones), val in dp.items():
+        for (used, carry, ones) in dp[n]:
             if used != M:
                 continue
-            total_ones = ones + bin(carry).count('1')
+            extra = bin(carry).count("1")
+            total_ones = ones + extra
             if total_ones == K:
-                ans = (ans + val) % MOD
-
+                ans = (ans + dp[n][(used, carry, ones)]) % MOD
         ans = ans * fact[M] % MOD
         return ans
         
