@@ -24,3 +24,4 @@ class Solution:
                             d[nxt2] = nxt1
 
         return min(dp[n - 1][k].values())
+        
