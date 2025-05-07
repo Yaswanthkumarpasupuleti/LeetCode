@@ -16,6 +16,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3822-fill-a-special-grid](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
@@ -38,6 +39,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3822-fill-a-special-grid](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3822-fill-a-special-grid) |
 ## Two Pointers
 |  |
 | ------- |
@@ -143,6 +145,7 @@
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3822-fill-a-special-grid](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3822-fill-a-special-grid) |
 ## Prefix Sum
 |  |
 | ------- |
