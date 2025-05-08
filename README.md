@@ -16,6 +16,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3822-fill-a-special-grid](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -146,6 +147,7 @@
 | ------- |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3822-fill-a-special-grid](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3822-fill-a-special-grid) |
 ## Prefix Sum
 |  |
@@ -160,14 +162,17 @@
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Shortest Path
 |  |
 | ------- |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
