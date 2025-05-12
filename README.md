@@ -17,6 +17,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2048-build-array-from-permutation](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3822-fill-a-special-grid](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3822-fill-a-special-grid) |
@@ -197,4 +198,8 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+## Greedy
+|  |
+| ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
