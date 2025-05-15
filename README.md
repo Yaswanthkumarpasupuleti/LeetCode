@@ -19,6 +19,7 @@
 | [1656-count-good-triplets](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1656-count-good-triplets) |
 | [2048-build-array-from-permutation](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
