@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0075-sort-colors) |
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0238-product-of-array-except-self](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -59,6 +60,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -211,6 +213,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3859-maximum-product-of-two-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Enumeration
