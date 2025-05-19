@@ -25,6 +25,7 @@
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3321-type-of-triangle](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -107,6 +108,7 @@
 | [1013-fibonacci-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [3321-type-of-triangle](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -217,6 +219,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3321-type-of-triangle](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3321-type-of-triangle) |
 | [3859-maximum-product-of-two-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Enumeration
 |  |
