@@ -29,6 +29,7 @@
 | [3321-type-of-triangle](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3639-zero-array-transformation-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3822-fill-a-special-grid](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3833-merge-operations-for-minimum-travel-time) |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [3639-zero-array-transformation-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3833-merge-operations-for-minimum-travel-time) |
 ## Simulation
 |  |
