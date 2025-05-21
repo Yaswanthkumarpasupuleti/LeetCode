@@ -21,6 +21,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1656-count-good-triplets](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1656-count-good-triplets) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2048-build-array-from-permutation](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -117,6 +118,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1500-count-largest-group) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2998-count-symmetric-integers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3321-type-of-triangle](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -218,10 +220,12 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0136-single-number) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
 |  |
 | ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bitmask
 |  |
@@ -238,6 +242,7 @@
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1656-count-good-triplets) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2998-count-symmetric-integers) |
 ## Greedy
@@ -250,4 +255,8 @@
 | ------- |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
