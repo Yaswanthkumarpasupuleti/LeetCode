@@ -15,10 +15,5 @@ class Solution:
                 slow = slow.next
                 fast = fast.next.next
                 if slow == fast:
-                    break
-            if fast == None or fast.next == None:
-                return False
-            elif slow == fast:
-                return True
+                    return True
             return False
-        
