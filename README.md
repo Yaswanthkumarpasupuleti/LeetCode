@@ -124,6 +124,7 @@
 | [0009-palindrome-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0292-nim-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0292-nim-game) |
 | [1013-fibonacci-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1500-count-largest-group) |
@@ -284,4 +285,12 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
