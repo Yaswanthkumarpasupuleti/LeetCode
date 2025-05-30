@@ -187,6 +187,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0100-same-tree) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
@@ -223,6 +224,7 @@
 ## Graph
 |  |
 | ------- |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Heap (Priority Queue)
