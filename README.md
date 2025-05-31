@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0792-binary-search) |
+| [0945-snakes-and-ladders](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1220-smallest-sufficient-team](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1220-smallest-sufficient-team) |
 | [1293-three-consecutive-odds](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -201,6 +202,7 @@
 | [0100-same-tree](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
@@ -217,6 +219,7 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0945-snakes-and-ladders](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
