@@ -11,6 +11,7 @@
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0075-sort-colors) |
+| [0135-candy](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0136-single-number) |
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0238-product-of-array-except-self](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -293,6 +294,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0135-candy) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
