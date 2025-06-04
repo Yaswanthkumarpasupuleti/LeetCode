@@ -89,6 +89,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0541-reverse-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [3194-find-words-containing-character](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -297,6 +299,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2998-count-symmetric-integers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
 | ------- |
