@@ -102,6 +102,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0541-reverse-string-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0541-reverse-string-ii) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1894-merge-strings-alternately](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -331,4 +332,8 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0292-nim-game) |
+## Union Find
+|  |
+| ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 <!---LeetCode Topics End-->
