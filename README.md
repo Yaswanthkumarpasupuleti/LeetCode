@@ -345,4 +345,8 @@
 |  |
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+## Trie
+|  |
+| ------- |
+| [0440-k-th-smallest-in-lexicographical-order](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 <!---LeetCode Topics End-->
