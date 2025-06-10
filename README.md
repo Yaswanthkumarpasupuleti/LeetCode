@@ -20,6 +20,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0945-snakes-and-ladders) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1220-smallest-sufficient-team](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1220-smallest-sufficient-team) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1293-three-consecutive-odds) |
@@ -321,6 +322,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0135-candy) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
