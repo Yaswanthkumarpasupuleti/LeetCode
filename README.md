@@ -21,6 +21,7 @@
 | [0792-binary-search](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0792-binary-search) |
 | [0945-snakes-and-ladders](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1220-smallest-sufficient-team](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1220-smallest-sufficient-team) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -57,6 +58,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -329,6 +331,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
