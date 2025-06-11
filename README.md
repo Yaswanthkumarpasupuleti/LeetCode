@@ -124,6 +124,7 @@
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3447-clear-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3447-clear-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -179,6 +180,7 @@
 | [0234-palindrome-linked-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3447-clear-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
 | ------- |
@@ -269,6 +271,7 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [3447-clear-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3447-clear-digits) |
 ## Graph
 |  |
 | ------- |
