@@ -128,6 +128,7 @@
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -262,6 +263,7 @@
 | [0238-product-of-array-except-self](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [3639-zero-array-transformation-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3647-zero-array-transformation-iii) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3833-merge-operations-for-minimum-travel-time) |
 ## Simulation
 |  |
@@ -325,6 +327,7 @@
 | [2998-count-symmetric-integers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -377,4 +380,8 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Sliding Window
+|  |
+| ------- |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 <!---LeetCode Topics End-->
