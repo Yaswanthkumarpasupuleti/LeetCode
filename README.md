@@ -28,6 +28,7 @@
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1656-count-good-triplets) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
@@ -258,6 +259,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3822-fill-a-special-grid](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3822-fill-a-special-grid) |
