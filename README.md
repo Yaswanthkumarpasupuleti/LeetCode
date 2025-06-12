@@ -16,6 +16,7 @@
 | [0136-single-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0137-single-number-ii) |
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0217-contains-duplicate](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -62,6 +63,7 @@
 | [0141-linked-list-cycle](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0217-contains-duplicate](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0217-contains-duplicate) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1500-count-largest-group) |
@@ -320,6 +322,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0217-contains-duplicate) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
