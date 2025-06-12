@@ -48,6 +48,7 @@
 | [3639-zero-array-transformation-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3822-fill-a-special-grid](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
