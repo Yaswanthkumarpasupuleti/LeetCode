@@ -170,6 +170,7 @@
 | [1500-count-largest-group](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1500-count-largest-group) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2998-count-symmetric-integers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2998-count-symmetric-integers) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3321-type-of-triangle](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3321-type-of-triangle) |
@@ -348,6 +349,7 @@
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
