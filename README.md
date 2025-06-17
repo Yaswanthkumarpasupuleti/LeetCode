@@ -128,6 +128,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0868-push-dominoes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
@@ -172,6 +173,7 @@
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0292-nim-game) |
+| [0415-add-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1500-count-largest-group) |
@@ -288,6 +290,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [3447-clear-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3447-clear-digits) |
 ## Graph
