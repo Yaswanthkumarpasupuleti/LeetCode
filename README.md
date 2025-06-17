@@ -130,6 +130,7 @@
 | [0344-reverse-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
+| [0394-decode-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0394-decode-string) |
 | [0415-add-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0541-reverse-string-ii) |
 | [0868-push-dominoes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0868-push-dominoes) |
@@ -199,6 +200,7 @@
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0394-decode-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3447-clear-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3447-clear-digits) |
@@ -223,6 +225,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
