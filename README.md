@@ -18,6 +18,7 @@
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0792-binary-search) |
@@ -66,6 +67,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1500-count-largest-group) |
@@ -83,6 +85,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0792-binary-search) |
@@ -165,6 +168,7 @@
 | [0009-palindrome-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
+| [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0292-nim-game) |
 | [1013-fibonacci-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -308,6 +312,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0137-single-number-ii) |
+| [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
 | [1220-smallest-sufficient-team](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1220-smallest-sufficient-team) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -330,6 +335,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
