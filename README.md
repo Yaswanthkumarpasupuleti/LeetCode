@@ -110,6 +110,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0125-valid-palindrome) |
@@ -130,6 +131,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0038-count-and-say) |
 | [0125-valid-palindrome](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0125-valid-palindrome) |
@@ -436,4 +438,8 @@
 |  |
 | ------- |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
