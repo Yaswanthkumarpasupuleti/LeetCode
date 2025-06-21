@@ -135,6 +135,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0344-reverse-string) |
