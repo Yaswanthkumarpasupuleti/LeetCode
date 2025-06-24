@@ -12,6 +12,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0135-candy) |
@@ -187,6 +188,7 @@
 | [0002-add-two-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
