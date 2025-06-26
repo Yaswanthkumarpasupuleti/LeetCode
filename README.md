@@ -140,6 +140,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0038-count-and-say) |
+| [0043-multiply-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -192,6 +193,7 @@
 | [0002-add-two-numbers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -317,6 +319,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0043-multiply-strings) |
 | [0415-add-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
