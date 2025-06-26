@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0075-sort-colors) |
@@ -174,6 +175,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0070-climbing-stairs) |
 | [0806-domino-and-tromino-tiling](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0868-push-dominoes) |
@@ -397,6 +399,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0135-candy) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
