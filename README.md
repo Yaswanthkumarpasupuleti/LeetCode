@@ -18,6 +18,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0137-single-number-ii) |
@@ -178,6 +179,7 @@
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0806-domino-and-tromino-tiling](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0868-push-dominoes) |
 | [1013-fibonacci-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1013-fibonacci-number) |
