@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0073-set-matrix-zeroes) |
@@ -202,6 +203,7 @@
 | [0007-reverse-integer](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0009-palindrome-number) |
 | [0043-multiply-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
@@ -310,6 +312,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0945-snakes-and-ladders](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
