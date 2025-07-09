@@ -488,4 +488,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0459-repeated-substring-pattern) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
