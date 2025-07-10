@@ -19,6 +19,7 @@
 | [0059-spiral-matrix-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -101,6 +102,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -322,6 +324,7 @@
 | [0054-spiral-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0945-snakes-and-ladders](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0945-snakes-and-ladders) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1496-lucky-numbers-in-a-matrix) |
