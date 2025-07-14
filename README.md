@@ -217,6 +217,7 @@
 | [0292-nim-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0415-add-strings) |
 | [1013-fibonacci-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1013-fibonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -258,6 +259,7 @@
 | [0206-reverse-linked-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
