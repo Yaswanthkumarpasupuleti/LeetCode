@@ -245,6 +245,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0394-decode-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -516,4 +517,8 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0098-validate-binary-search-tree) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
