@@ -518,6 +518,7 @@
 | [0181-employees-earning-more-than-their-managers](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0183-customers-who-never-order) |
+| [0586-customer-placing-the-largest-number-of-orders](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 ## Binary Search Tree
 |  |
 | ------- |
