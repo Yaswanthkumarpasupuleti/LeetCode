@@ -252,6 +252,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0394-decode-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -302,6 +303,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Depth-First Search
@@ -335,6 +337,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Geometry
 |  |
 | ------- |
@@ -528,8 +531,14 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
