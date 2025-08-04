@@ -117,6 +117,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0190-reverse-bits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0190-reverse-bits) |
 | [3822-fill-a-special-grid](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3822-fill-a-special-grid) |
 ## Two Pointers
 |  |
@@ -403,6 +404,7 @@
 | [0067-add-binary](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
 | [1220-smallest-sufficient-team](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1220-smallest-sufficient-team) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
