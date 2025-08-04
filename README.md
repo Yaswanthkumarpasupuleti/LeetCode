@@ -155,6 +155,7 @@
 | [0038-count-and-say](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0038-count-and-say) |
 | [0043-multiply-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -218,6 +219,7 @@
 | [0043-multiply-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0070-climbing-stairs) |
 | [0149-max-points-on-a-line](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0149-max-points-on-a-line) |
 | [0168-excel-sheet-column-title](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -371,6 +373,7 @@
 | [0043-multiply-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0415-add-strings) |
 | [2048-build-array-from-permutation](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -397,6 +400,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0137-single-number-ii) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
