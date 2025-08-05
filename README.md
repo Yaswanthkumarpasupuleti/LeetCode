@@ -227,6 +227,7 @@
 | [0168-excel-sheet-column-title](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0231-power-of-two](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0415-add-strings) |
@@ -285,6 +286,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1013-fibonacci-number) |
@@ -407,6 +409,7 @@
 | [0137-single-number-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0268-missing-number) |
 | [1220-smallest-sufficient-team](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1220-smallest-sufficient-team) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
