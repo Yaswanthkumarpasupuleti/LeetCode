@@ -71,6 +71,7 @@
 | [3647-zero-array-transformation-iii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 | [3822-fill-a-special-grid](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3822-fill-a-special-grid) |
 | [3833-merge-operations-for-minimum-travel-time](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3833-merge-operations-for-minimum-travel-time) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -113,6 +114,7 @@
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3790-fruits-into-baskets-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -382,6 +384,7 @@
 | [2048-build-array-from-permutation](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3447-clear-digits](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3447-clear-digits) |
+| [3790-fruits-into-baskets-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 ## Graph
 |  |
 | ------- |
@@ -556,4 +559,12 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0173-binary-search-tree-iterator) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
