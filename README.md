@@ -548,6 +548,7 @@
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0596-classes-with-at-least-5-students](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0607-sales-person) |
+| [0627-swap-salary](https://github.com/Yaswanthkumarpasupuleti/LeetCode/tree/master/0627-swap-salary) |
 ## Binary Search Tree
 |  |
 | ------- |
